@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+matplotlib
+langchain
+langchain-community
+python-dotenv
+transformers
+langchain
+torch
+accelerate
